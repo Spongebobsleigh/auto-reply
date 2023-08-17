@@ -1,0 +1,13 @@
+body{
+    padding: 20px;
+    text-align: center;
+}
+
+h1{
+    margin-bottom: 20px;
+    padding: 20px 0;
+    color:#209eff;
+    font-size: 222%;
+    border-top: 1px solid #999;
+    border-bottom: 1px solid #999;
+}
